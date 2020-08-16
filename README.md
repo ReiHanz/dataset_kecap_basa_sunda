@@ -6,5 +6,6 @@ Contributor:
 Ade Sutedi
 
 Many Thank's to Informatika 2017 
+This version still in review and need to update for completed vocabulary.
 
 Source: http://repositori.kemdikbud.go.id/2954/1/Kamus%20Sunda-Indonesia%20-%20%20%28449h%29a.pdf
